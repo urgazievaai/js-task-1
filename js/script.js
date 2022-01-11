@@ -6,3 +6,4 @@ console.log(greeting);
 
 greeting = "Happy New Year, my friend!";
 console.log(greeting);
+
